@@ -11,6 +11,5 @@ Use animation to understand the algorithm.(用动画展示算法)
 
 
 #### 如果感觉这个项目对你有帮助, 考虑帮我的咖啡里面加点枸杞?
-<img src="/other/1.jpg" width = "150px" />
+<img src="/other/1.jpg" width = "150px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/other/2.png" width = "150px" />
 
-<img src="/other/2.png" width = "150px" />
