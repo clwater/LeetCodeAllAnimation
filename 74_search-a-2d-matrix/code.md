@@ -34,7 +34,7 @@ The first integer of each row is greater than the last
         return true if included.
 
 
-## Example
+## 样例
 ### 样例  1:
 	输入: [[5]],2
 	输出: false

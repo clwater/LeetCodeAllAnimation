@@ -18,7 +18,7 @@ You have 4 cards each containing a number from 1 to 9. You need to judge whether
     Output: False
 
 
-## Example
+## 样例
 ### 样例  1:
 	输入: [4, 1, 8, 7]
     输出: True
