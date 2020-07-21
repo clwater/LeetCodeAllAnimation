@@ -4,6 +4,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 
 |Title|LeetCode|LintCode|Animation|Finish|
 |--------|:----:|:----:|--------------------|:-:|
+|[1229_meeting-scheduler](/1229_meeting-scheduler/code.md)|1229|-|![](1229_meeting-scheduler/1229_动画_双指针.gif)|&check;|
 |[1035_uncrossed-lines](/1035_uncrossed-lines/code.md)|1035|-|![](/1035_uncrossed-lines/1035_动画_dp.gif)|&check;|
 |[994_rotting-oranges](/994_rotting-oranges/code.md)|994|-|![](/994_rotting-oranges/994_动画_BFS.gif)|&check;|
 |[74_search-a-2d-matrix](/74_search-a-2d-matrix/code.md)|74|383|![](/74_search-a-2d-matrix/74.gif)|&check;|
