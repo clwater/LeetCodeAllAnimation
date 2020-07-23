@@ -12,6 +12,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[121_best-time-to-buy-and-sell-stock](121_best-time-to-buy-and-sell-stock/code.md)|121|149|![](/121_best-time-to-buy-and-sell-stock/121_动画_贪心.gif)|&check;|
 |[74_search-a-2d-matrix](/74_search-a-2d-matrix/code.md)|74|383|![](/74_search-a-2d-matrix/74.gif)|&check;|
 |[64_minimum-path-sum](/64_minimum-path-sum/code.md)|64|110|![](/64_minimum-path-sum/64_动画_dp.gif)|&check;|
+|[63_unique-paths-ii](/63_unique-paths-ii/code.md)|63|115|![](/63_unique-paths-ii/63_动画_dp.gif)|&check;|
 |[62_unique-paths](/62_unique-paths/code.md)|62|114|![](/62_unique-paths/62_动画_dp.gif)|&check;|
 |[22_generate-parentheses](/22_generate-parentheses/code.md)|22|-|![](/22_generate-parentheses/22_动画_回溯.gif)|&check;|
 |[11_container-with-most-water](/11_container-with-most-water/code.md)|11|28|![](/11_container-with-most-water/11_动画_双指针.gif)|&check;|
