@@ -22,12 +22,6 @@ An obstacle and empty space is marked as 1 and 0 respectively in the grid.
 网格中的障碍物和空位置分别用 1 和 0 来表示。
 
 
-## Note
-You may not slant the container and n is at least 2.
-
-## 说明
-你不能倾斜容器，且 n 的值至少为 2。
-
 
 
 ## Example
