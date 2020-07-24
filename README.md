@@ -9,6 +9,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[994_rotting-oranges](/994_rotting-oranges/code.md)|994|-|![](/994_rotting-oranges/994_动画_BFS.gif)|&check;|
 |[739_daily-temperatures](/739_daily-temperatures/code.md)|739|1060|![](/739_daily-temperatures/739_动画_单调栈.gif)|&check;|
 |[24-game](/679_24-game/code.md)|679|739|![](/679_24-game/679_动画_回溯.gif)|&check;|
+|[575_distribute-candies](/575_distribute-candies/code.md)|575|1163|![](/575_distribute-candies/575_动画_排序.gif) ![](/575_distribute-candies/575_动画_集合.gif)|&check;|
 |[470_implement-rand10-using-rand7](/470_implement-rand10-using-rand7/code.md)|470|-|![](/470_implement-rand10-using-rand7/470_动画_拒绝采样.gif)|&check;|
 |[121_best-time-to-buy-and-sell-stock](121_best-time-to-buy-and-sell-stock/code.md)|121|149|![](/121_best-time-to-buy-and-sell-stock/121_动画_贪心.gif)|&check;|
 |[74_search-a-2d-matrix](/74_search-a-2d-matrix/code.md)|74|383|![](/74_search-a-2d-matrix/74.gif)|&check;|

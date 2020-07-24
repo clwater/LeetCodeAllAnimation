@@ -63,29 +63,37 @@ Do NOT use system's Math.random().
 ### Code
 
 ```java
-    //T O(n)
+    //T O(1)
     //S O(1)
-    public int maxArea(int[] height) {
-        //定义左右指针
-        int left = 0, right = height.length - 1;
-
-        //返回结果
-        int result = 0;
-
-        //遍历数组
-        while(left < right){
-            //更新结果
-            result = Math.max(result,
-                    //计算当前结果
-                    Math.min(height[left], height[right]) * (right - left) );
-            //移动高度较小的指针
-            if(height[left] < height[right]){
-                left++;
-            }else{
-                right--;
+    public int rand10() {
+        do {
+            //第一次和第二次的使用rand7()
+            int rand7_1 = rand7();
+            int rand7_2 = rand7();
+            //映射到1-49的区间
+            int current = rand7_2 + (rand7_1 - 1) * 7;
+            //当取值小于40的时候,则接受
+            if (current <= 40) {
+                return 1 + (current - 1) % 10;
             }
-        }
 
-        return result;
+            //当值大于40的时候则拒绝, 需要继续采样
+            int rand7_3 = rand7();
+            //映射到1-63的区间
+            current = rand7_3 + (current - 40 - 1) * 7;
+            //当取值小于60的时候,则接受
+            if (current <= 60) {
+                return 1 + (current - 1) % 10;
+            }
+
+            //当值大于60的时候则拒绝, 需要继续采样
+            int rand7_4 = rand7();
+            //映射到1-21的区间
+            current = rand7_4 + (current - 60 - 1) * 7;
+            //当取值小于60的时候,则接受
+            if (current <= 20) {
+                return 1 + (current - 1) % 10;
+            }
+        } while (true);
     }
 ```
