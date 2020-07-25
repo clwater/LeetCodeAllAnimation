@@ -18,14 +18,6 @@ How many possible unique paths are there?
 问总共有多少条不同的路径？
 
 
-## Note
-You may not slant the container and n is at least 2.
-
-## 说明
-你不能倾斜容器，且 n 的值至少为 2。
-
-
-
 ## Example
 ### Exmaple 1:
     Input: m = 3, n = 2
