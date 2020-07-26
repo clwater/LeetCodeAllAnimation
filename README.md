@@ -12,6 +12,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[605_can-place-flowers](/605_can-place-flowers/code.md)|605|1138|![](/605_can-place-flowers/605_动画_贪心.gif)|&check;|
 |[575_distribute-candies](/575_distribute-candies/code.md)|575|1163|![](/575_distribute-candies/575_动画_排序.gif) ![](/575_distribute-candies/575_动画_集合.gif)|&check;|
 |[470_implement-rand10-using-rand7](/470_implement-rand10-using-rand7/code.md)|470|-|![](/470_implement-rand10-using-rand7/470_动画_拒绝采样.gif)|&check;|
+|[278_first-bad-version](/278_first-bad-version/code.md)|278|74|![](/278_first-bad-version/278_动画_贪心.gif)|&check;|
 |[121_best-time-to-buy-and-sell-stock](121_best-time-to-buy-and-sell-stock/code.md)|121|149|![](/121_best-time-to-buy-and-sell-stock/121_动画_贪心.gif)|&check;|
 |[74_search-a-2d-matrix](/74_search-a-2d-matrix/code.md)|74|383|![](/74_search-a-2d-matrix/74.gif)|&check;|
 |[64_minimum-path-sum](/64_minimum-path-sum/code.md)|64|110|![](/64_minimum-path-sum/64_动画_dp.gif)|&check;|
