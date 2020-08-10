@@ -14,6 +14,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[470_implement-rand10-using-rand7](/470_implement-rand10-using-rand7/code.md)|470|-|![](/470_implement-rand10-using-rand7/470_动画_拒绝采样.gif)|&check;|
 |[406_queue-reconstruction-by-height](/406_queue-reconstruction-by-height/code.md)|406|-|![](/406_queue-reconstruction-by-height/406_动画_贪心_small.gif)|&check;|
 |[278_first-bad-version](/278_first-bad-version/code.md)|278|74|![](/278_first-bad-version/278_动画_贪心.gif)|&check;|
+|[221_maximal-square](/221_maximal-square/code.md)|221|436|![](/221_maximal-square/221_动画_dp_small.gif)|&check;|
 |[121_best-time-to-buy-and-sell-stock](121_best-time-to-buy-and-sell-stock/code.md)|121|149|![](/121_best-time-to-buy-and-sell-stock/121_动画_贪心.gif)|&check;|
 |[83_remove-duplicates-from-sorted-list](/83_remove-duplicates-from-sorted-list/code.md)|83|112|![](/83_remove-duplicates-from-sorted-list/83_动画_迭代.gif)|&check;|
 |[74_search-a-2d-matrix](/74_search-a-2d-matrix/code.md)|74|383|![](/74_search-a-2d-matrix/74.gif)|&check;|
