@@ -12,6 +12,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[605_can-place-flowers](/605_can-place-flowers/code.md)|605|1138|![](/605_can-place-flowers/605_动画_贪心.gif)|&check;|
 |[575_distribute-candies](/575_distribute-candies/code.md)|575|1163|![](/575_distribute-candies/575_动画_排序.gif) ![](/575_distribute-candies/575_动画_集合.gif)|&check;|
 |[470_implement-rand10-using-rand7](/470_implement-rand10-using-rand7/code.md)|470|-|![](/470_implement-rand10-using-rand7/470_动画_拒绝采样.gif)|&check;|
+|[406_queue-reconstruction-by-height](/406_queue-reconstruction-by-height/code.md)|406|-|![](/406_queue-reconstruction-by-height/406_动画_贪心_small.gif)|&check;|
 |[278_first-bad-version](/278_first-bad-version/code.md)|278|74|![](/278_first-bad-version/278_动画_贪心.gif)|&check;|
 |[121_best-time-to-buy-and-sell-stock](121_best-time-to-buy-and-sell-stock/code.md)|121|149|![](/121_best-time-to-buy-and-sell-stock/121_动画_贪心.gif)|&check;|
 |[83_remove-duplicates-from-sorted-list](/83_remove-duplicates-from-sorted-list/code.md)|83|112|![](/83_remove-duplicates-from-sorted-list/83_动画_迭代.gif)|&check;|
