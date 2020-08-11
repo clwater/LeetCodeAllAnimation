@@ -11,6 +11,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[24-game](/679_24-game/code.md)|679|739|![](/679_24-game/679_动画_回溯.gif)|&check;|
 |[605_can-place-flowers](/605_can-place-flowers/code.md)|605|1138|![](/605_can-place-flowers/605_动画_贪心.gif)|&check;|
 |[575_distribute-candies](/575_distribute-candies/code.md)|575|1163|![](/575_distribute-candies/575_动画_排序.gif) ![](/575_distribute-candies/575_动画_集合.gif)|&check;|
+|[491_increasing-subsequences](/491_increasing-subsequences/code.md)|491|1210|![](/491_increasing-subsequences/491_动画_DFS_small.gif)|&check;|
 |[470_implement-rand10-using-rand7](/470_implement-rand10-using-rand7/code.md)|470|-|![](/470_implement-rand10-using-rand7/470_动画_拒绝采样.gif)|&check;|
 |[424_longest-repeating-character-replacement](/424_longest-repeating-character-replacement/code.md)|424|-|![](/424_longest-repeating-character-replacement/424_动画_滑动窗口_small.gif)|&check;|
 |[406_queue-reconstruction-by-height](/406_queue-reconstruction-by-height/code.md)|406|-|![](/406_queue-reconstruction-by-height/406_动画_贪心_small.gif)|&check;|
