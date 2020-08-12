@@ -9,6 +9,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[994_rotting-oranges](/994_rotting-oranges/code.md)|994|-|![](/994_rotting-oranges/994_动画_BFS.gif)|&check;|
 |[739_daily-temperatures](/739_daily-temperatures/code.md)|739|1060|![](/739_daily-temperatures/739_动画_单调栈.gif)|&check;|
 |[24-game](/679_24-game/code.md)|679|739|![](/679_24-game/679_动画_回溯.gif)|&check;|
+|[634_find-the-derangement-of-an-array](/634_find-the-derangement-of-an-array/code.md)|634|869|![](/634_find-the-derangement-of-an-array/634_动画_迭代_small.gif)|&check;|
 |[605_can-place-flowers](/605_can-place-flowers/code.md)|605|1138|![](/605_can-place-flowers/605_动画_贪心.gif)|&check;|
 |[575_distribute-candies](/575_distribute-candies/code.md)|575|1163|![](/575_distribute-candies/575_动画_排序.gif) ![](/575_distribute-candies/575_动画_集合.gif)|&check;|
 |[491_increasing-subsequences](/491_increasing-subsequences/code.md)|491|1210|![](/491_increasing-subsequences/491_动画_DFS_small.gif)|&check;|
