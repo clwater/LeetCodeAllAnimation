@@ -4,6 +4,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 
 |Title|LeetCode|LintCode|Animation|Finish|
 |--------|:----:|:----:|--------------------|:-:|
+|[1371_find-the-longest-substring-containing-vowels-in-even-counts](/1371_find-the-longest-substring-containing-vowels-in-even-counts/code.md)|1371|-|![](1371_find-the-longest-substring-containing-vowels-in-even-counts/1371_动画_前缀和_状态压缩_small.gif)|&check;|
 |[1300_sum-of-mutated-array-closest-to-target](/1300_sum-of-mutated-array-closest-to-target/code.md)|1300|-|![](1300_sum-of-mutated-array-closest-to-target/1300_动画_前缀和_small.gif)|&check;|
 |[1229_meeting-scheduler](/1229_meeting-scheduler/code.md)|1229|-|![](1229_meeting-scheduler/1229_动画_双指针.gif)|&check;|
 |[1071_greatest-common-divisor-of-strings](/1071_greatest-common-divisor-of-strings/code.md)|1071|-|![](/1071_greatest-common-divisor-of-strings/1071_动画_枚举_small.gif)|&check;|
