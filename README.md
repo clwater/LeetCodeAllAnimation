@@ -20,6 +20,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[470_implement-rand10-using-rand7](/470_implement-rand10-using-rand7/code.md)|470|-|![](/470_implement-rand10-using-rand7/470_动画_拒绝采样.gif)|&check;|
 |[424_longest-repeating-character-replacement](/424_longest-repeating-character-replacement/code.md)|424|-|![](/424_longest-repeating-character-replacement/424_动画_滑动窗口_small.gif)|&check;|
 |[406_queue-reconstruction-by-height](/406_queue-reconstruction-by-height/code.md)|406|-|![](/406_queue-reconstruction-by-height/406_动画_贪心_small.gif)|&check;|
+|[322_coin-change](/322_coin-change/code.md)|322|669|![](/322_coin-change/332_动画_dp_small.gif)|&check;|
 |[278_first-bad-version](/278_first-bad-version/code.md)|278|74|![](/278_first-bad-version/278_动画_贪心.gif)|&check;|
 |[221_maximal-square](/221_maximal-square/code.md)|221|436|![](/221_maximal-square/221_动画_dp_small.gif)|&check;|
 |[121_best-time-to-buy-and-sell-stock](121_best-time-to-buy-and-sell-stock/code.md)|121|149|![](/121_best-time-to-buy-and-sell-stock/121_动画_贪心.gif)|&check;|
