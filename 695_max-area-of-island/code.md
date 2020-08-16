@@ -1,4 +1,4 @@
-#  Max Area of Island
+# Max Area of Island
 # 岛屿的最大面积
 
 ## Description
@@ -43,7 +43,7 @@ Find the maximum area of an island in the given 2D array. (If there is no island
     [0,0,0,0,0,0,0,1,1,0,0,0,0]]
     对于上面这个给定矩阵应返回 6。注意答案不应该是 11 ，因为岛屿只能包含水平或垂直的四个方向的 1 。
 
-示例 2:
+### 示例 2:
     [[0,0,0,0,0,0,0,0]]
     对于上面这个给定的矩阵, 返回 0。
 

@@ -46,12 +46,12 @@ At the end, return the modified image.
     注意，右下角的像素没有更改为2，
     因为它不是在上下左右四个方向上与初始点相连的像素点。
 
-Note:
+## Note:
 * The length of image and image[0] will be in the range [1, 50].
 * The given starting pixel will satisfy 0 <= sr < image.length and 0 <= sc < image[0].length.
 * The value of each color in image[i][j] and newColor will be an integer in [0, 65535].
 
-# 注意:
+## 注意:
 * image 和 image[0] 的长度在范围 [1, 50] 内。
 * 给出的初始点将满足 0 <= sr < image.length 和 0 <= sc < image[0].length。
 * image[i][j] 和 newColor 表示的颜色值在范围 [0, 65535]内。
