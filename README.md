@@ -10,6 +10,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[1071_greatest-common-divisor-of-strings](/1071_greatest-common-divisor-of-strings/code.md)|1071|-|![](/1071_greatest-common-divisor-of-strings/1071_动画_枚举_small.gif)|&check;|
 |[1035_uncrossed-lines](/1035_uncrossed-lines/code.md)|1035|-|![](/1035_uncrossed-lines/1035_动画_dp.gif)|&check;|
 |[994_rotting-oranges](/994_rotting-oranges/code.md)|994|-|![](/994_rotting-oranges/994_动画_BFS.gif)|&check;|
+|[876_middle-of-the-linked-list](/876_middle-of-the-linked-list/code.md)|876|228|![](/876_middle-of-the-linked-list/876_动画_双指针_small.gif)|&check;|
 |[886_possible-bipartition](/886_possible-bipartition/code.md)|886|-|![](/886_possible-bipartition/886_动画_染色_DFS_small.gif)|&check;|
 |[799_champagne-tower](/799_champagne-tower/code.md)|799|-|![](/799_champagne-tower/799_动画_迭代_small.gif)|&check;|
 |[739_daily-temperatures](/739_daily-temperatures/code.md)|739|1060|![](/739_daily-temperatures/739_动画_单调栈.gif)|&check;|
