@@ -24,22 +24,22 @@ a binary tree in which the left and right subtrees of every node differ in heigh
 	Given the following tree [3,9,20,null,null,15,7]:
 
 		3
-	/ \
-	9  20
+	   / \
+	   9  20
 		/  \
-	15   7
+	   15   7
 	Return true.
 
 ### Example 2:
 	Given the following tree [1,2,2,3,3,null,null,4,4]:
 
 		1
-		/ \
-		2   2
-		/ \
-	3   3
-	/ \
-	4   4
+	   / \
+	  2   2
+		 / \
+	    3   3
+	       / \
+	      4   4
 	Return false.
 
 ## 示例
@@ -47,22 +47,22 @@ a binary tree in which the left and right subtrees of every node differ in heigh
 	给定二叉树 [3,9,20,null,null,15,7]
 
 		3
-	/ \
-	9  20
+	   / \
+	   9  20
 		/  \
-	15   7
+	   15   7
 	返回 true 。
 
 ### 示例 2:
 	给定二叉树 [1,2,2,3,3,null,null,4,4]
 
 		1
-		/ \
-		2   2
-		/ \
-	3   3
-	/ \
-	4   4
+	   / \
+	  2   2
+		 / \
+	    3   3
+	       / \
+	      4   4
 	返回 false 。
 
 

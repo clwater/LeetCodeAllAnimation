@@ -1,4 +1,4 @@
-# Implement Rand10() Using Rand7()
+# Maximum Depth of N-ary Tree
 # N叉树的最大深度
 
 
