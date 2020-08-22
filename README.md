@@ -34,6 +34,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[200_number-of-islands](/200_number-of-islands/code.md)|200|433|![](/200_number-of-islands/200_动画_dfs_small.gif)|&check;|
 |[209_minimum-size-subarray-sum](/209_minimum-size-subarray-sum/code.md)|209|406|![](/209_minimum-size-subarray-sum/209_动画_滑动窗口_small.gif)|&check;|
 |[198_house-robber](/198_house-robber/code.md)|198|392|![](/198_house-robber/198_动画_dp_small.gif)|&check;|
+|[169_majority-element](/169_majority-element/code.md)|169|392|![](/169_majority-element/169_动画_small.gif)|&check;|
 |[121_best-time-to-buy-and-sell-stock](121_best-time-to-buy-and-sell-stock/code.md)|121|149|![](/121_best-time-to-buy-and-sell-stock/121_动画_贪心.gif)|&check;|
 |[111_minimum-depth-of-binary-tree](111_minimum-depth-of-binary-tree/code.md)|111|155|![](/111_minimum-depth-of-binary-tree/111_动画_递归_DFS_small.gif)|&check;|
 |[110_balanced-binary-tree](110_balanced-binary-tree/code.md)|110|93|![](/110_balanced-binary-tree/110_动画_递归_small.gif)|&check;|
