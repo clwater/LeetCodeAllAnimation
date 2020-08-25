@@ -34,6 +34,9 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[344_reverse-string](/344_reverse-string/code.md)|344|624|![](/344_reverse-string/344_动画_双指针_small.gif)|&check;|
 |[322_coin-change](/322_coin-change/code.md)|322|669|![](/322_coin-change/332_动画_dp_small.gif)|&check;|
 |[278_first-bad-version](/278_first-bad-version/code.md)|278|74|![](/278_first-bad-version/278_动画_贪心.gif)|&check;|
+|[294_flip-game-ii](/294_flip-game-ii/code.md)|294|913|![](/294_flip-game-ii/294_动画_迭代_记忆化搜索_small.gif)|&check;|
+|[293_flip-game](/293_flip-game/code.md)|293|914|![](/293_flip-game/293_动画_迭代_small.gif)|&check;|
+|[292_nim-game](/292_nim-game/code.md)|292|-|![](/292_nim-game/292_动画_博弈_small.gif)|&check;|
 |[221_maximal-square](/221_maximal-square/code.md)|221|436|![](/221_maximal-square/221_动画_dp_small.gif)|&check;|
 |[200_number-of-islands](/200_number-of-islands/code.md)|200|433|![](/200_number-of-islands/200_动画_dfs_small.gif)|&check;|
 |[209_minimum-size-subarray-sum](/209_minimum-size-subarray-sum/code.md)|209|406|![](/209_minimum-size-subarray-sum/209_动画_滑动窗口_small.gif)|&check;|
