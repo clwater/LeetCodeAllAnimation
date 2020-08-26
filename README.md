@@ -8,11 +8,12 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[1300_sum-of-mutated-array-closest-to-target](/1300_sum-of-mutated-array-closest-to-target/code.md)|1300|-|![](1300_sum-of-mutated-array-closest-to-target/1300_动画_前缀和_small.gif)|&check;|
 |[1246_palindrome-removal](/1246_palindrome-removal/code.md)|1246|-|![](1246_palindrome-removal/11246_动画_dp_small.gif)|&check;|
 |[1229_meeting-scheduler](/1229_meeting-scheduler/code.md)|1229|-|![](1229_meeting-scheduler/1229_动画_双指针_small.gif)|&check;|
+|[1198_find-smallest-common-element-in-all-rows](/1198_find-smallest-common-element-in-all-rows/code.md)|1198|-|![](/1198_find-smallest-common-element-in-all-rows/1198_动画_计数_small.gif)|&check;|
 |[1071_greatest-common-divisor-of-strings](/1071_greatest-common-divisor-of-strings/code.md)|1071|-|![](/1071_greatest-common-divisor-of-strings/1071_动画_枚举_small.gif)|&check;|
 |[1035_uncrossed-lines](/1035_uncrossed-lines/code.md)|1035|-|![](/1035_uncrossed-lines/1035_动画_dp_small.gif)|&check;|
 |[994_rotting-oranges](/994_rotting-oranges/code.md)|994|-|![](/994_rotting-oranges/994_动画_BFS_small.gif)|&check;|
 |[977_squares-of-a-sorted-array](/977_squares-of-a-sorted-array/code.md)|977|-|![](/977_squares-of-a-sorted-array/977_动画_双指针_small.gif)|&check;|
-|[945_minimum-increment-to-make-array-unique](/945_minimum-increment-to-make-array-unique/code.md)|945|-|![](/945_minimum-increment-to-make-array-unique/./945_动画_计数_small.gif)|&check;|
+|[945_minimum-increment-to-make-array-unique](/945_minimum-increment-to-make-array-unique/code.md)|945|-|![](/945_minimum-increment-to-make-array-unique/945_动画_计数_small.gif)|&check;|
 |[914_x-of-a-kind-in-a-deck-of-cards](/914_x-of-a-kind-in-a-deck-of-cards/code.md)|914|-|![](/914_x-of-a-kind-in-a-deck-of-cards/914_动画_最大公约数_计数_small.gif)|&check;|
 |[876_middle-of-the-linked-list](/876_middle-of-the-linked-list/code.md)|876|228|![](/876_middle-of-the-linked-list/876_动画_双指针_small.gif)|&check;|
 |[886_possible-bipartition](/886_possible-bipartition/code.md)|886|-|![](/886_possible-bipartition/886_动画_染色_DFS_small.gif)|&check;|
