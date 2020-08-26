@@ -83,6 +83,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[63_unique-paths-ii](/63_unique-paths-ii/code.md)|63|115|![](/63_unique-paths-ii/63_动画_dp_small.gif)|&check;|
 |[62_unique-paths](/62_unique-paths/code.md)|62|114|![](/62_unique-paths/62_动画_dp_small.gif)|&check;|
 |[56_merge-intervals](/56_merge-intervals/code.md)|56|156|![](/56_merge-intervals/56_动画_双指针_small.gif)|&check;|
+|[55_jump-game](/55_jump-game/code.md)|55|116|![](/55_jump-game/55_动画_贪心_small.gif)|&check;|
 |[53_maximum-subarray](/53_maximum-subarray/code.md)|53|41|![](/53_maximum-subarray/53_动画_贪心_small.gif)|&check;|
 |[47_permutations-ii](/47_permutations-ii/code.md)|47|16|![](/47_permutations-ii/47_动画_dfs_回溯_剪枝_small.gif)|&check;||[46_permutations](/46_permutations/code.md)|46|15|![](/46_permutations/46_动画_dfs_回溯_small.gif)|&check;|
 |[42_trapping-rain-water](/42_trapping-rain-water/code.md)|42|-|![](/42_trapping-rain-water/42_动画_栈_small.gif)|&check;|
