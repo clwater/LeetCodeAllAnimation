@@ -53,6 +53,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[206_reverse-linked-list](/206_reverse-linked-list/code.md)|206|35|![](/206_reverse-linked-list/206_动画_递归_small.gif)|&check;|
 |[204_count-primes](/204_count-primes/code.md)|204|-|![](/204_count-primes/204_动画_small.gif)|&check;|
 |[200_number-of-islands](/200_number-of-islands/code.md)|200|433|![](/200_number-of-islands/200_动画_dfs_small.gif)|&check;|
+|[199_binary-tree-right-side-view](/199_binary-tree-right-side-view/code.md)|199|-|![](/199_binary-tree-right-side-view/199_动画_DFS_small.gif)|&check;|
 |[198_house-robber](/198_house-robber/code.md)|198|392|![](/198_house-robber/198_动画_dp_small.gif)|&check;|
 |[169_majority-element](/169_majority-element/code.md)|169|392|![](/169_majority-element/169_动画_small.gif)|&check;|
 |[141_linked-list-cycle](/141_linked-list-cycle/code.md)|141|102|![](/141_linked-list-cycle/141_动画_哈希表_small.gif)|&check;|
