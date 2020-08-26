@@ -20,6 +20,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[739_daily-temperatures](/739_daily-temperatures/code.md)|739|1060|![](/739_daily-temperatures/739_动画_单调栈_small.gif)|&check;|
 |[733_flood-fill](/733_flood-fill/code.md)|733|1062|![](/733_flood-fill/733_动画_dfs_small.gif)|&check;|
 |[718_maximum-length-of-repeated-subarray](/718_maximum-length-of-repeated-subarray/code.md)|718|-|![](/718_maximum-length-of-repeated-subarray/718_动画_滑动窗口_small.gif)|&check;|
+|[714_best-time-to-buy-and-sell-stock-with-transaction-fee](/714_best-time-to-buy-and-sell-stock-with-transaction-fee/code.md)|714|1000|![](/714_best-time-to-buy-and-sell-stock-with-transaction-fee/./714_动画_dp_small.gif)|&check;|
 |[695_max-area-of-island](/695_max-area-of-island/code.md)|695|1080|![](/695_max-area-of-island/695_动画_dfs_small.gif)|&check;|
 |[24-game](/679_24-game/code.md)|679|739|![](/679_24-game/679_动画_回溯_small.gif)|&check;|
 |[634_find-the-derangement-of-an-array](/634_find-the-derangement-of-an-array/code.md)|634|869|![](/634_find-the-derangement-of-an-array/634_动画_迭代_small.gif)|&check;|
