@@ -37,6 +37,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[424_longest-repeating-character-replacement](/424_longest-repeating-character-replacement/code.md)|424|-|![](/424_longest-repeating-character-replacement/424_动画_滑动窗口_small.gif)|&check;|
 |[409_longest-palindrome](/409_longest-palindrome/code.md)|409|627|![](/409_longest-palindrome/409_动画_贪心_small.gif)|&check;|
 |[406_queue-reconstruction-by-height](/406_queue-reconstruction-by-height/code.md)|406|-|![](/406_queue-reconstruction-by-height/406_动画_贪心_small.gif)|&check;|
+|[384_shuffle-an-array](/384_shuffle-an-array/code.md)|384|-|![](/384_shuffle-an-array/384_动画_洗牌_small.gif)|&check;|
 |[344_reverse-string](/344_reverse-string/code.md)|344|624|![](/344_reverse-string/344_动画_双指针_small.gif)|&check;|
 |[322_coin-change](/322_coin-change/code.md)|322|669|![](/322_coin-change/332_动画_dp_small.gif)|&check;|
 |[309_best-time-to-buy-and-sell-stock-with-cooldown](/309_best-time-to-buy-and-sell-stock-with-cooldown/code.md)|309|995|![](/309_best-time-to-buy-and-sell-stock-with-cooldown/309_动画_dp_small.gif)|&check;|
