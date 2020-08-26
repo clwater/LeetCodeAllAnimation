@@ -1,53 +1,75 @@
-# Strobogrammatic Number II
+# Strobogrammatic Number III
 # 中心对称数
 
 ## Description
 A strobogrammatic number is a number that looks the same when rotated 180 degrees (looked at upside down).
-Find all strobogrammatic numbers that are of length = n.
+Write a function to count the total strobogrammatic numbers that exist in the range of low <= num <= high.
 
 ## Description
 中心对称数是指一个数字在旋转了 180 度之后看起来依旧相同的数字（或者上下颠倒地看）。
-找到所有长度为 n 的中心对称数。
+写一个函数来计算范围在 [low, high] 之间中心对称数的个数。
 
 ## Example
 ### Example:
-    Input:  n = 2
-    Output: ["11","69","88","96"]
+    Input: low = "50", high = "100"
+    Output: 3 
+    Explanation: 69, 88, and 96 are three strobogrammatic numbers.
 
 ## 示例
-### 示例 :
-    输入:  n = 2
-    输出: ["11","69","88","96"]
+### 示例:
+    输入: low = "50", high = "100"
+    输出: 3 
+    解释: 69，88 和 96 是三个在该范围内的中心对称数
+    
 
 ## Other
+### Note:
+* Because the range might be a large number, the low and high numbers are represented as string.
 
 ## 其它
-
+### 注意:
+* 由于范围可能很大，所以 low 和 high 都用字符串表示。
 
 ## Solution
 ### 迭代+记忆化
-在我们找到中心对称数的生成规律后, 我们可以通过迭代的方式来依次生成相关的内容.
+类似的,在我们找到中心对称数的生成规律后, 我们可以通过迭代的方式来依次生成相关的内容.
 
 
 ## Code 
 
 ```java
- //保存当前为n的情况下, 存在的中心对称数
+    //保存当前为n的情况下, 存在的中心对称数
     private HashMap<Integer, List<String>> map = new HashMap<>();
+
 
     //T O(n * n!)
     //S O(n)
-    public List<String> findStrobogrammatic(int n) {
+    public int strobogrammaticInRange(String low, String high) {
 
-        //处理n = 1的情况
-        if (n == 1) {
-            return Arrays.asList("0", "1", "8");
+        //定义返回的结果集
+        List<String> result = new ArrayList<>();
+
+        //获取相应层级的情况
+        for (int i = low.length(); i <= high.length(); i++) {
+            result.addAll(find(i));
         }
-        List<String> result = find(n);// 这个是递归的处理方法
+
         //通过迭代器去除以0开头的字符串
         result.removeIf(s -> s.startsWith("0"));
-        return result;
+        //处理特殊的需要长度为1的情况
+        if (low.length() == 1){
+            result.add("0");
+        }
+
+        //移除不符合的情况
+        //可优化比较方法
+        result.removeIf(s -> Long.parseLong(s) < Long.parseLong(low) );
+        result.removeIf(s -> Long.parseLong(s) > Long.parseLong(high) );
+
+        return result.size();
+
     }
+
 
     public List<String> find(int n) {
         //如果层级已经存在,则直接返回
@@ -92,5 +114,4 @@ Find all strobogrammatic numbers that are of length = n.
         }
         return listResult;
     }
-
 ```
