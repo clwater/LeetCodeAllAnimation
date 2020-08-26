@@ -8,6 +8,7 @@ if [[ $tag == '' ]]; then
      exit
 fi
 
+cd ..
 
 folder=`find . -name $tag*`
 
