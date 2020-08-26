@@ -35,6 +35,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[491_increasing-subsequences](/491_increasing-subsequences/code.md)|491|1210|![](/491_increasing-subsequences/491_动画_DFS_small.gif)|&check;|
 |[475_heaters](/475_heaters/code.md)|475|-|![](/475_heaters/475_动画_迭代_贪心_small.gif)|&check;|
 |[470_implement-rand10-using-rand7](/470_implement-rand10-using-rand7/code.md)|470|-|![](/470_implement-rand10-using-rand7/470_动画_拒绝采样_small.gif)|&check;|
+|[466_count-the-repetitions](/466_count-the-repetitions/code.md)|466|-|![](/466_count-the-repetitions/466_动画_dp_small.gif)|&check;|
 |[463_island-perimeter](/463_island-perimeter/code.md)|463|1225|![](/463_island-perimeter/463_动画_dfs_small.gif)|&check;|
 |[445_add-two-numbers-ii](/445_add-two-numbers-ii/code.md)|445|221|![](/445_add-two-numbers-ii/445_动画_栈_small.gif)|&check;|
 |[424_longest-repeating-character-replacement](/424_longest-repeating-character-replacement/code.md)|424|-|![](/424_longest-repeating-character-replacement/424_动画_滑动窗口_small.gif)|&check;|
