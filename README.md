@@ -55,6 +55,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[248_strobogrammatic-number-iii](/248_strobogrammatic-number-iii/code.md)|248|-||x|
 |[247_strobogrammatic-number-ii](/247_strobogrammatic-number-ii/code.md)|247|776|![](/247_strobogrammatic-number-ii/247_动画_递归_small.gif)|&check;|
 |[246_strobogrammatic-number](/246_strobogrammatic-number/code.md)|246|644|![](/246_strobogrammatic-number/246_动画_双指针_small.gif)|&check;|
+|[240_search-a-2d-matrix-ii](/240_search-a-2d-matrix-ii/code.md)|240|38|![](/240_search-a-2d-matrix-ii/240_动画_分治_small.gif)|&check;|
 |[221_maximal-square](/221_maximal-square/code.md)|221|436|![](/221_maximal-square/221_动画_dp_small.gif)|&check;|
 |[209_minimum-size-subarray-sum](/209_minimum-size-subarray-sum/code.md)|209|406|![](/209_minimum-size-subarray-sum/209_动画_滑动窗口_small.gif)|&check;|
 |[206_reverse-linked-list](/206_reverse-linked-list/code.md)|206|35|![](/206_reverse-linked-list/206_动画_递归_small.gif)|&check;|
