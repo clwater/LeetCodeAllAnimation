@@ -49,6 +49,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[278_first-bad-version](/278_first-bad-version/code.md)|278|74|![](/278_first-bad-version/278_动画_贪心_small.gif)|&check;|
 |[221_maximal-square](/221_maximal-square/code.md)|221|436|![](/221_maximal-square/221_动画_dp_small.gif)|&check;|
 |[209_minimum-size-subarray-sum](/209_minimum-size-subarray-sum/code.md)|209|406|![](/209_minimum-size-subarray-sum/209_动画_滑动窗口_small.gif)|&check;|
+|[206_reverse-linked-list](/206_reverse-linked-list/code.md)|206|35|![](/206_reverse-linked-list/206_动画_递归_small.gif)|&check;|
 |[204_count-primes](/204_count-primes/code.md)|204|-|![](/204_count-primes/204_动画_small.gif)|&check;|
 |[200_number-of-islands](/200_number-of-islands/code.md)|200|433|![](/200_number-of-islands/200_动画_dfs_small.gif)|&check;|
 |[198_house-robber](/198_house-robber/code.md)|198|392|![](/198_house-robber/198_动画_dp_small.gif)|&check;|
