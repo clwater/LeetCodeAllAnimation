@@ -57,6 +57,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[109_convert-sorted-list-to-binary-search-tree](109_convert-sorted-list-to-binary-search-tree/code.md)|109|106|![](/109_convert-sorted-list-to-binary-search-tree/109_动画_LDR_small.gif)|&check;|
 |[108_convert-sorted-array-to-binary-search-tree](108_convert-sorted-array-to-binary-search-tree/code.md)|108|177|![](/108_convert-sorted-array-to-binary-search-tree/108_动画_LDR_small.gif)|&check;|
 |[104_maximum-depth-of-binary-tree](104_maximum-depth-of-binary-tree/code.md)|104|97|![](/104_maximum-depth-of-binary-tree/104_动画_队列_BFS_small.gif)|&check;|
+|[93_restore-ip-addresses](/93_restore-ip-addresses/code.md)|93|426|![](/93_restore-ip-addresses/93_动画_回溯_small.gif)|&check;|
 |[88_merge-sorted-array](/88_merge-sorted-array/code.md)|88|64|![](/88_merge-sorted-array/88_动画_双指针_small.gif)|&check;|
 |[83_remove-duplicates-from-sorted-list](/83_remove-duplicates-from-sorted-list/code.md)|83|112|![](/83_remove-duplicates-from-sorted-list/83_动画_迭代_small.gif)|&check;|
 |[74_search-a-2d-matrix](/74_search-a-2d-matrix/code.md)|74|383|![](/74_search-a-2d-matrix/74_动画_二分_small.gif)|&check;|
