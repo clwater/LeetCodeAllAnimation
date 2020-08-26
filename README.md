@@ -35,6 +35,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[475_heaters](/475_heaters/code.md)|475|-|![](/475_heaters/475_动画_迭代_贪心_small.gif)|&check;|
 |[470_implement-rand10-using-rand7](/470_implement-rand10-using-rand7/code.md)|470|-|![](/470_implement-rand10-using-rand7/470_动画_拒绝采样_small.gif)|&check;|
 |[463_island-perimeter](/463_island-perimeter/code.md)|463|1225|![](/463_island-perimeter/463_动画_dfs_small.gif)|&check;|
+|[445_add-two-numbers-ii](/445_add-two-numbers-ii/code.md)|445|221|![](/445_add-two-numbers-ii/445_动画_栈_small.gif)|&check;|
 |[424_longest-repeating-character-replacement](/424_longest-repeating-character-replacement/code.md)|424|-|![](/424_longest-repeating-character-replacement/424_动画_滑动窗口_small.gif)|&check;|
 |[409_longest-palindrome](/409_longest-palindrome/code.md)|409|627|![](/409_longest-palindrome/409_动画_贪心_small.gif)|&check;|
 |[406_queue-reconstruction-by-height](/406_queue-reconstruction-by-height/code.md)|406|-|![](/406_queue-reconstruction-by-height/406_动画_贪心_small.gif)|&check;|
