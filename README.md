@@ -52,6 +52,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[292_nim-game](/292_nim-game/code.md)|292|-|![](/292_nim-game/292_动画_博弈_small.gif)|&check;|
 |[278_first-bad-version](/278_first-bad-version/code.md)|278|74|![](/278_first-bad-version/278_动画_贪心_small.gif)|&check;|
 |[256_paint-house](/256_paint-house/code.md)|256|515|![](/256_paint-house/256_动画_动态规划_small.gif)|&check;|
+|[246_strobogrammatic-number](/246_strobogrammatic-number/code.md)|246|644|![](/246_strobogrammatic-number/246_动画_双指针_small.gif)|&check;|
 |[221_maximal-square](/221_maximal-square/code.md)|221|436|![](/221_maximal-square/221_动画_dp_small.gif)|&check;|
 |[209_minimum-size-subarray-sum](/209_minimum-size-subarray-sum/code.md)|209|406|![](/209_minimum-size-subarray-sum/209_动画_滑动窗口_small.gif)|&check;|
 |[206_reverse-linked-list](/206_reverse-linked-list/code.md)|206|35|![](/206_reverse-linked-list/206_动画_递归_small.gif)|&check;|
