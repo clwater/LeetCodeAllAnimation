@@ -16,6 +16,9 @@ folder=${folder/.\//}
 
 cd $folder
 gif=`find . -name $tag*_small.gif`
+
+gif=${gif/.\//}
+
 txt="|[$folder](/$folder/code.md)|$tag|-|![](/$folder/$gif)|&check;|"
 
 echo $txt
