@@ -52,6 +52,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[209_minimum-size-subarray-sum](/209_minimum-size-subarray-sum/code.md)|209|406|![](/209_minimum-size-subarray-sum/209_动画_滑动窗口_small.gif)|&check;|
 |[198_house-robber](/198_house-robber/code.md)|198|392|![](/198_house-robber/198_动画_dp_small.gif)|&check;|
 |[169_majority-element](/169_majority-element/code.md)|169|392|![](/169_majority-element/169_动画_small.gif)|&check;|
+|[141_linked-list-cycle](/141_linked-list-cycle/code.md)|141|102|![](/141_linked-list-cycle/141_动画_哈希表_small.gif)|&check;|
 |[136_single-number](/136_single-number/code.md)|136|1368||x|
 |[122_best-time-to-buy-and-sell-stock-ii](122_best-time-to-buy-and-sell-stock-ii/code.md)|122|150|![](/122_best-time-to-buy-and-sell-stock-ii/122_动画_贪心_small.gif)|&check;|
 |[121_best-time-to-buy-and-sell-stock](121_best-time-to-buy-and-sell-stock/code.md)|121|149|![](/121_best-time-to-buy-and-sell-stock/121_动画_贪心_small.gif)|&check;|
