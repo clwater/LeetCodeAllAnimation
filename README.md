@@ -77,6 +77,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[38_count-and-say](/38_count-and-say/code.md)|38|420|![](/38_count-and-say/38_动画_模拟_迭代_small.gif)|&check;|
 |[22_generate-parentheses](/22_generate-parentheses/code.md)|22|-|![](/22_generate-parentheses/22_动画_回溯_small.gif)|&check;|
 |[21_merge-two-sorted-lists](/21_merge-two-sorted-lists/code.md)|21|6|![](/21_merge-two-sorted-lists/21_动画_迭代_small.gif)|&check;|
+|[20_valid-parentheses](/20_valid-parentheses/code.md)|20|423|![](/20_valid-parentheses/20_动画_栈_small.gif)|&check;|
 |[11_container-with-most-water](/11_container-with-most-water/code.md)|11|28|![](/11_container-with-most-water/11_动画_双指针_small.gif)|&check;|
 |[3_longest-substring-without-repeating-characters](/3_longest-substring-without-repeating-characters/code.md)|3|-|![](/3_longest-substring-without-repeating-characters/3_动画_滑动窗口_small.gif)|&check;|
 |[2_add-two-numbers](/2_add-two-numbers/code.md)|2|167|![](/2_add-two-numbers/2_动画_迭代_small.gif)|&check;|
