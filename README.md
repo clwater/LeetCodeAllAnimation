@@ -68,6 +68,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[169_majority-element](/169_majority-element/code.md)|169|392|![](/169_majority-element/169_动画_small.gif)|&check;|
 |[141_linked-list-cycle](/141_linked-list-cycle/code.md)|141|102|![](/141_linked-list-cycle/141_动画_哈希表_small.gif)|&check;|
 |[136_single-number](/136_single-number/code.md)|136|1368||x|
+|[123_best-time-to-buy-and-sell-stock-iii](/123_best-time-to-buy-and-sell-stock-iii/code.md)|123|151|![](/123_best-time-to-buy-and-sell-stock-iii/123_动画_贪心_small.gif)|&check;|
 |[122_best-time-to-buy-and-sell-stock-ii](122_best-time-to-buy-and-sell-stock-ii/code.md)|122|150|![](/122_best-time-to-buy-and-sell-stock-ii/122_动画_贪心_small.gif)|&check;|
 |[121_best-time-to-buy-and-sell-stock](121_best-time-to-buy-and-sell-stock/code.md)|121|149|![](/121_best-time-to-buy-and-sell-stock/121_动画_贪心_small.gif)|&check;|
 |[111_minimum-depth-of-binary-tree](111_minimum-depth-of-binary-tree/code.md)|111|155|![](/111_minimum-depth-of-binary-tree/111_动画_递归_DFS_small.gif)|&check;|
