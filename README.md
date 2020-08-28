@@ -90,6 +90,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[47_permutations-ii](/47_permutations-ii/code.md)|47|16|![](/47_permutations-ii/47_动画_dfs_回溯_剪枝_small.gif)|&check;||[46_permutations](/46_permutations/code.md)|46|15|![](/46_permutations/46_动画_dfs_回溯_small.gif)|&check;|
 |[42_trapping-rain-water](/42_trapping-rain-water/code.md)|42|-|![](/42_trapping-rain-water/42_动画_栈_small.gif)|&check;|
 |[38_count-and-say](/38_count-and-say/code.md)|38|420|![](/38_count-and-say/38_动画_模拟_迭代_small.gif)|&check;|
+|[23_merge-k-sorted-lists](/23_merge-k-sorted-lists/code.md)|23|103|![](/23_merge-k-sorted-lists/23_动画_分治_堆_small.gif)|&check;|
 |[22_generate-parentheses](/22_generate-parentheses/code.md)|22|-|![](/22_generate-parentheses/22_动画_回溯_small.gif)|&check;|
 |[21_merge-two-sorted-lists](/21_merge-two-sorted-lists/code.md)|21|6|![](/21_merge-two-sorted-lists/21_动画_迭代_small.gif)|&check;|
 |[20_valid-parentheses](/20_valid-parentheses/code.md)|20|423|![](/20_valid-parentheses/20_动画_栈_small.gif)|&check;|
