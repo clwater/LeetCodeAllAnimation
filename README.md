@@ -58,6 +58,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[246_strobogrammatic-number](/246_strobogrammatic-number/code.md)|246|644|![](/246_strobogrammatic-number/246_动画_双指针_small.gif)|&check;|
 |[240_search-a-2d-matrix-ii](/240_search-a-2d-matrix-ii/code.md)|240|38|![](/240_search-a-2d-matrix-ii/240_动画_分治_small.gif)|&check;|
 |[221_maximal-square](/221_maximal-square/code.md)|221|436|![](/221_maximal-square/221_动画_dp_small.gif)|&check;|
+|[213_house-robber-ii](/213_house-robber-ii/code.md)|213|534|![](/213_house-robber-ii/213_动画_dp_small.gif)|&check;|
 |[209_minimum-size-subarray-sum](/209_minimum-size-subarray-sum/code.md)|209|406|![](/209_minimum-size-subarray-sum/209_动画_滑动窗口_small.gif)|&check;|
 |[206_reverse-linked-list](/206_reverse-linked-list/code.md)|206|35|![](/206_reverse-linked-list/206_动画_递归_small.gif)|&check;|
 |[204_count-primes](/204_count-primes/code.md)|204|-|![](/204_count-primes/204_动画_small.gif)|&check;|
