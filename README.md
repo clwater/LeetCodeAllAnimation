@@ -46,6 +46,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[365_water-and-jug-problem](/365_water-and-jug-problem/code.md)|365|-|![](/365_water-and-jug-problem/365_动画_BFS_small.gif)|&check;|
 |[346_moving-average-from-data-stream](/346_moving-average-from-data-stream/code.md)|346|642|![](/346_moving-average-from-data-stream/346_动画_队列_small.gif)|&check;|
 |[344_reverse-string](/344_reverse-string/code.md)|344|624|![](/344_reverse-string/344_动画_双指针_small.gif)|&check;|
+|[337_house-robber-iii](/337_house-robber-iii/code.md)|337|535|![](/337_house-robber-iii/337_动画_dfs_small.gif)|&check;|
 |[322_coin-change](/322_coin-change/code.md)|322|669|![](/322_coin-change/332_动画_dp_small.gif)|&check;|
 |[309_best-time-to-buy-and-sell-stock-with-cooldown](/309_best-time-to-buy-and-sell-stock-with-cooldown/code.md)|309|995|![](/309_best-time-to-buy-and-sell-stock-with-cooldown/309_动画_dp_small.gif)|&check;|
 |[294_flip-game-ii](/294_flip-game-ii/code.md)|294|913|![](/294_flip-game-ii/294_动画_迭代_记忆化搜索_small.gif)|&check;|
