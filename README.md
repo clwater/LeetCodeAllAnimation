@@ -16,6 +16,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[945_minimum-increment-to-make-array-unique](/945_minimum-increment-to-make-array-unique/code.md)|945|-|![](/945_minimum-increment-to-make-array-unique/945_动画_计数_small.gif)|&check;|
 |[929_unique-email-addresses](/929_unique-email-addresses/code.md)|929|-||x|
 |[914_x-of-a-kind-in-a-deck-of-cards](/914_x-of-a-kind-in-a-deck-of-cards/code.md)|914|-|![](/914_x-of-a-kind-in-a-deck-of-cards/914_动画_最大公约数_计数_small.gif)|&check;|
+|[887_super-egg-drop](/887_super-egg-drop/code.md)|887|-|![](/887_super-egg-drop/887_动画_dp_small.gif)|&check;|
 |[876_middle-of-the-linked-list](/876_middle-of-the-linked-list/code.md)|876|228|![](/876_middle-of-the-linked-list/876_动画_双指针_small.gif)|&check;|
 |[886_possible-bipartition](/886_possible-bipartition/code.md)|886|-|![](/886_possible-bipartition/886_动画_染色_DFS_small.gif)|&check;|
 |[836_rectangle-overlap](/836_rectangle-overlap/code.md)|836|-||x|
