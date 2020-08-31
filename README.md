@@ -49,6 +49,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[344_reverse-string](/344_reverse-string/code.md)|344|624|![](/344_reverse-string/344_动画_双指针_small.gif)|&check;|
 |[337_house-robber-iii](/337_house-robber-iii/code.md)|337|535|![](/337_house-robber-iii/337_动画_dfs_small.gif)|&check;|
 |[322_coin-change](/322_coin-change/code.md)|322|669|![](/322_coin-change/332_动画_dp_small.gif)|&check;|
+|[312_burst-balloons](/312_burst-balloons/code.md)|312|168|![](/312_burst-balloons/312_动画_dfs_记忆化_small.gif)|&check;|
 |[309_best-time-to-buy-and-sell-stock-with-cooldown](/309_best-time-to-buy-and-sell-stock-with-cooldown/code.md)|309|995|![](/309_best-time-to-buy-and-sell-stock-with-cooldown/309_动画_dp_small.gif)|&check;|
 |[294_flip-game-ii](/294_flip-game-ii/code.md)|294|913|![](/294_flip-game-ii/294_动画_迭代_记忆化搜索_small.gif)|&check;|
 |[293_flip-game](/293_flip-game/code.md)|293|914|![](/293_flip-game/293_动画_迭代_small.gif)|&check;|
