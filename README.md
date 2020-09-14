@@ -11,6 +11,7 @@ Use animation to understand the algorithm.(用动画展示算法)
 |[1198_find-smallest-common-element-in-all-rows](/1198_find-smallest-common-element-in-all-rows/code.md)|1198|-|![](/1198_find-smallest-common-element-in-all-rows/1198_动画_计数_small.gif)|&check;|
 |[1071_greatest-common-divisor-of-strings](/1071_greatest-common-divisor-of-strings/code.md)|1071|-|![](/1071_greatest-common-divisor-of-strings/1071_动画_枚举_small.gif)|&check;|
 |[1035_uncrossed-lines](/1035_uncrossed-lines/code.md)|1035|-|![](/1035_uncrossed-lines/1035_动画_dp_small.gif)|&check;|
+|[1014_best-sightseeing-pair](/1014_best-sightseeing-pair/code.md)|1014|-|![](/1014_best-sightseeing-pair/1014_动画_枚举_small.gif)|&check;|
 |[994_rotting-oranges](/994_rotting-oranges/code.md)|994|-|![](/994_rotting-oranges/994_动画_BFS_small.gif)|&check;|
 |[977_squares-of-a-sorted-array](/977_squares-of-a-sorted-array/code.md)|977|-|![](/977_squares-of-a-sorted-array/977_动画_双指针_small.gif)|&check;|
 |[945_minimum-increment-to-make-array-unique](/945_minimum-increment-to-make-array-unique/code.md)|945|-|![](/945_minimum-increment-to-make-array-unique/945_动画_计数_small.gif)|&check;|
