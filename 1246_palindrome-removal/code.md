@@ -35,13 +35,15 @@ Return the minimum number of moves needed to remove all numbers from the array.
     输出：3
     解释：先删除 [4]，然后删除 [1,3,1]，最后再删除 [5]。
 
-## 提示：
-* 1 <= arr.length <= 100
-* 1 <= arr[i] <= 20
 
 ## Constraints:
 * 1 <= arr.length <= 100
 * 1 <= arr[i] <= 20
+
+## 提示：
+* 1 <= arr.length <= 100
+* 1 <= arr[i] <= 20
+
 
 
 ## Solution

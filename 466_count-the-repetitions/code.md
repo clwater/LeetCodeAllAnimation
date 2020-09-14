@@ -30,10 +30,6 @@ You are given two non-empty strings s1 and s2 (each at most 100 characters long)
     返回：
     2
 
-## Other
-
-## 其它
-
 
 ## Solution
 ### 动态规划

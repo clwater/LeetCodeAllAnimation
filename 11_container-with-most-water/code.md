@@ -22,7 +22,6 @@ You may not slant the container and n is at least 2.
     Output: 49
     
 
-
 ## 样例
 ### 样例  1:
 	输入：[1,8,6,2,5,4,8,3,7]

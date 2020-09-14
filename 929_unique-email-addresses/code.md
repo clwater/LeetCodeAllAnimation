@@ -32,7 +32,7 @@ Given a list of emails, we send one email to each address in the list.  How many
     解释：实际收到邮件的是 "testemail@leetcode.com" 和 "testemail@lee.tcode.com"。
 
 ## Other
-###   Note:
+### Note:
 * 1 <= emails[i].length <= 100
 * 1 <= emails.length <= 100
 * Each emails[i] contains exactly one '@' character.
@@ -40,7 +40,7 @@ Given a list of emails, we send one email to each address in the list.  How many
 * Local names do not start with a '+' character.
 
 ## 其它
-###   提示：
+### 提示：
 * 1 <= emails[i].length <= 100
 * 1 <= emails.length <= 100
 * 每封 emails[i] 都包含有且仅有一个 '@' 字符。

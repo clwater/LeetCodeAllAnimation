@@ -62,7 +62,6 @@ An obstacle and empty space is marked as 1 and 0 respectively in the grid.
 * 题目数据保证答案小于等于 2 * 10 ^ 9
 
 ## Solution
-
 ### 动态规划(dp)
 这个题目和我们上一道的类似, 不过我们需要记得对无法到达的位置做额外处理.
 

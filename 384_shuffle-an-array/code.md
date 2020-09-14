@@ -23,7 +23,7 @@ Shuffle a set of numbers without duplicates.
     solution.shuffle();
 
 ## 示例
-###   示例:
+### 示例:
     // 以数字集合 1, 2 和 3 初始化数组。
     int[] nums = {1,2,3};
     Solution solution = new Solution(nums);

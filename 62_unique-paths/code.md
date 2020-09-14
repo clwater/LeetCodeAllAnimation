@@ -55,7 +55,6 @@ How many possible unique paths are there?
 * 题目数据保证答案小于等于 2 * 10 ^ 9
 
 ## Solution
-
 ### 动态规划(dp)
 当我们在解答题目的时候, 我们会尝试绘图来展示题目的情况, 这是一道很经典的动态规划的题目, 这里我们需要定义dp数组, 这里dp[i][j]的内容就可以通过dp[i-1][j]与dp[i][j-1]的和来获得
 
