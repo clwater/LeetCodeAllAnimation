@@ -2,6 +2,13 @@
 Use animation to understand the algorithm.(用动画展示算法)
 
 
+### Knapsack Problem
+### 背包问题
+|Title|Animation|Finish|
+|--------|--------------------|:-:|
+|[01背包问题](backpack_1/code.md)|![](backpack_1/背包_1_动画_small.gif)|&check;|
+
+### Leet or Lint Problem
 |Title|LeetCode|LintCode|Animation|Finish|
 |--------|:----:|:----:|--------------------|:-:|
 |[1371_find-the-longest-substring-containing-vowels-in-even-counts](/1371_find-the-longest-substring-containing-vowels-in-even-counts/code.md)|1371|-|![](1371_find-the-longest-substring-containing-vowels-in-even-counts/1371_动画_前缀和_状态压缩_small.gif)|&check;|
