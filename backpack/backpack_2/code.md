@@ -27,7 +27,7 @@
 ### Code
 
 ```java
-       //T O(NV Σ(V/vi))
+    //T O(NV Σ(V/vi))
     //S O(NV)
     //转化为01背包问题, 此时的物品可以无限选择, 而不是只能选择一次
     public int CompletePack(int[] v, int[] w, int N, int V) {
