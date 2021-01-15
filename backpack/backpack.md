@@ -7,3 +7,4 @@
 |[完全背包问题](backpack_2/code.md)|![](backpack_2/背包_2_动画_small.gif)|&check;|
 |[多重背包问题](backpack_3/code.md)|![](backpack_3/背包_3_动画_small.gif)|&check;|
 |[混合背包问题](backpack_4/code.md)||x|
+|[二维背包问题](backpack_5/code.md)||x|
