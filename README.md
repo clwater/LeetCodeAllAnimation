@@ -24,8 +24,3 @@ RobinAlgo的网站已经正式上线了!!!
 [LeetCode or LintCode](/leet_lint/leet&lint.md)
 
 [BackPack_背包问题](/backpack/backpack.md)
-
-
-
-如果你遇到了问题或者想要提供建议, 可以通过以下方式联系到我.
-<img src="/other/1.jpg" width = "150px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/other/2.png" width = "150px" />
